@@ -1,0 +1,95 @@
+body{
+    background-color: #25274d;
+}
+/* .topmargin{
+    margin-top: 120px;
+} */
+
+
+@media only screen and (min-width: 400px) {
+    /* For mobile: */
+    .topmargin{
+        margin-top: 20px;
+    }
+    
+  }
+
+
+
+  @media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .topmargin{
+        margin-top: 20px;
+    }
+    
+  }
+
+  @media only screen and (min-width: 820px) {
+    /* For desktop: */
+    .topmargin{
+        margin-top: center;
+    }
+    
+  }
+
+
+.contact{
+    padding: 4%;
+    /* height: 400px; */
+}
+.col-md-3{
+    
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.bg-col-md-3{
+    background: #ff9b00;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form-reg-btn button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+
+.contact-form-reg-btn button:hover{
+    background: #25274d;
+    color: rgb(213, 213, 213);
+    font-weight: 600;
+    width: 41%;
+}
+
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    /* margin-left: 20px; */
+    margin-right: 150px;
+    text-align: right;
+    font-size: small;
+    
+    display: block;
+    
+}

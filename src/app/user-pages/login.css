@@ -1,0 +1,17 @@
+.log-bg-color{
+    background-color: #acd8e5;
+}
+.log-bg-color:hover{
+    background-color: #8ed1e6;
+}
+                
+.text-primary-c{
+    color: rgb(96, 94, 94);
+    font-weight: 500;
+}
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    margin-left: 20px;
+    display: block;
+}

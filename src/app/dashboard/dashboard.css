@@ -1,0 +1,27 @@
+.dashboard-bd{
+    background-color: black;
+    padding: 20px;
+}
+/* .dashboard-bd3{
+    background-color: brown;
+    padding: 20px;
+} */
+
+
+.wrapper-dashboard {
+    /* max-width: 350px;
+    min-height: 500px; */
+    /* max-width: 450px; */
+    /* min-height: auto; */
+    /* margin: 80px auto; */
+    /* margin: 220px auto; */
+    /* padding: 40px 30px 30px 30px; */
+    /* background-color: #ecf0f3;
+    border-radius: 15px;
+    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff; */
+
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px rgb(229, 227, 227), -1px -1px 10px #fff;
+}
+

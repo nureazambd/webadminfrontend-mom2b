@@ -1,0 +1,102 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+.border-md {
+    border-width: 2px;
+}
+
+.btn-facebook {
+    background: #405D9D;
+    border: none;
+}
+
+.btn-facebook:hover, .btn-facebook:focus {
+    background: #314879;
+}
+
+.btn-twitter {
+    background: #42AEEC;
+    border: none;
+}
+
+.btn-twitter:hover, .btn-twitter:focus {
+    background: #1799e4;
+}
+
+
+
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSES
+* ==========================================
+*
+*/
+
+body {
+    min-height: 100vh;
+}
+
+.form-control:not(select) {
+    padding: 1.5rem 0.5rem;
+}
+
+select.form-control {
+    height: 52px;
+    
+    padding-left: 0.5rem;
+}
+select.max-wid{
+    max-width: 80px;
+    margin-top: 0.5px;
+    max-height: 49px;
+}
+
+select.max-wid-country{
+    
+    margin-top: 1.5px;
+    max-height: 49px;
+}
+
+/* style="max-width: 80px" */
+
+.form-control::placeholder {
+    color: #ccc;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+
+.btn-primary-color{
+    background: #25274d;
+    color: #fff;
+}
+
+.btn-primary-color:hover{
+    background: #05060e;
+    color: rgb(206, 205, 205);
+}
+
+/* background: #25274d;
+    color: #fff; */
+
+/* max-width: 350px;
+        min-height: 500px; */
+        /* max-width: 450px; */
+        /* min-height: auto; */
+        /* margin: 80px auto; */
+        /* margin: 220px auto; */
+        /* padding: 40px 30px 30px 30px; */
+
+.wrapper-register-page {
+        background-color: #ecf0f3;
+        border-radius: 15px;
+        box-shadow: 10px 10px 10px #cbced1, -5px -5px 5px #fff;
+    }

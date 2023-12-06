@@ -1,0 +1,187 @@
+body{
+    background-color: #25274d;
+}
+.contact{
+    padding: 4%;
+    /* height: 400px; */
+}
+/* .logtopmargin{
+    margin-top: 220px;
+} */
+
+/* .logtopmargin{
+    margin-top: 220px;
+} */
+/* For mobile: */
+/* @media only screen and (min-width: 400px) {
+    
+    .logtopmargin{
+        margin-top: center;
+    }
+    
+  } */
+
+  /* @media (max-width: 575.98px) { 
+    .logtopmargin{
+        margin-top: auto;
+    }
+   }
+
+   @media (max-width: 767.98px) { 
+    .logtopmargin{
+        margin-top: auto;
+    }
+}
+
+
+@media (max-width: 991.98px) { 
+    .logtopmargin{
+        margin-top:10%;
+    }
+ }
+
+ @media (min-width: 1199.98px) { 
+    .logtopmargin{
+        margin-top:10%;
+    }
+  } */
+
+  /* .logtopmargin{
+    
+    
+} */
+  
+
+  /* @media only screen and (min-width: 600px) {
+    
+    .logtopmargin{
+        margin-top: auto;
+    }
+    
+  } */
+
+  /* @media only screen and (min-width: 820px) {
+    
+    .logtopmargin{
+        margin-top: center;
+    }
+    
+  } */
+
+
+  @media (min-width: 640px) { 
+    .logtopmargin{
+        margin-top: auto;
+    }
+   }
+
+   @media (min-width: 768px) { 
+    .logtopmargin{
+        /* margin-top: 25%; */
+    }
+   }
+
+   @media (min-width: 1024px) { 
+    .logtopmargin{
+        margin-top: 10%;
+    }
+   }
+
+   @media (min-width: 1280px) { 
+    .logtopmargin{    
+        margin-top: 5%;
+     
+    }
+   }
+
+
+
+.col-md-3{
+    
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.bg-col-md-3{
+    background: #ff9b00;
+}
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: #fff;
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form-login-btn button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 41%;
+}
+
+.login-form-fbconnect button{
+    background: #1877f2;
+    color: #fff;
+    font-weight: 600;
+    width: 35%;
+}
+.login-form-fbconnect button:hover{
+    background: #0566e5;
+    color: #fff;
+    font-weight: 600;
+    width: 35%;
+}
+
+.contact-form-login-btn button:hover{
+    background: #25274d;
+    color: rgb(213, 213, 213);
+    font-weight: 600;
+    width: 41%;
+}
+
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    margin-left: 20px;
+    display: block;
+}
+
+
+
+
+
+.log-bg-color{
+    background-color: #acd8e5;
+}
+.log-bg-color:hover{
+    background-color: #8ed1e6;
+}
+                
+.text-primary-c{
+    color: rgb(96, 94, 94);
+    font-weight: 500;
+}
+.invalid-input{
+    color: red;
+    margin-top: -20px;
+    /* margin-left: 20px; */
+    margin-right: 150px;
+    text-align: right;
+    display: block;
+    font-size: small;
+}
